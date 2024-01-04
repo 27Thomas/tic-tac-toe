@@ -5,3 +5,8 @@ p{
 .important{
     font-weight: bolder;
 }
+
+#thing3{
+    font-size: 2em;
+    font-style: italic;
+}
